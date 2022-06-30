@@ -8,5 +8,3 @@ I'm interested in:
 - Networks
 - Programming
 - Soccer 
-
-Ready for bad code?
